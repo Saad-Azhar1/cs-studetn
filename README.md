@@ -1,2 +1,2 @@
 # cs-studetn
-learning github
+learning github.
